@@ -1,4 +1,4 @@
-# Python - get erc20 balance
+# Python - EVM Viewer
 
 Currently pointing at [RPC](https://testnet-v925-fireblocks.testnet.z7a.xyz) (Zilliqa Testnet)
 
