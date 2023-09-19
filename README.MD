@@ -4,9 +4,9 @@ Currently pointing at [RPC](https://testnet-v925-fireblocks.testnet.z7a.xyz) (Zi
 
 ## How to run
 
-Install web3
-    pip install web3.py
-or
+Install web3\
+    pip install web3.py\
+or\
     pip3 install --no-cache-dir web3
 
 GetBalances (pyBalances.py)
